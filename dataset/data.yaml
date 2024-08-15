@@ -1,0 +1,7 @@
+
+path: /home/dataset  # 数据集根目录路径
+train: /home/dataset/images/train  # 训练集图像路径（相对于数据集根目录）
+val: /home/dataset/images/val  # 验证集图像路径（相对于数据集根目录）
+
+nc: 8
+names: ['duanxiu','duanqun','duanku','lianyiduanqun','lianyichangqun','changxiu','changqun','changku']
